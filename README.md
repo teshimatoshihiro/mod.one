@@ -2,7 +2,7 @@
 
 ## DEMO
 
-  file:///C:/Users/ttesh/OneDrive/Desktop/modi.11.12/echostation1.html
+
 
 ## 紹介と使い方
 
